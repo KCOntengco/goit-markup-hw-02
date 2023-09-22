@@ -1,0 +1,13 @@
+:root {
+    --section-header-title-color: #2E2F42;
+    --section-title-color: #2E2F42;
+    --section-feature-content-color: #434455;
+    --team-card-color: #2E2F42;
+    --team-card-content: #434455;
+    --top-line: #2E2F42
+}
+
+
+.header > div > ul > li {
+    display: inline;
+}
