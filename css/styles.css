@@ -12,7 +12,13 @@
     --top-line: #2E2F42
 }
 
+body {
+    font-family: Roboto;
+}
 
+.logo{
+    
+}
 .footer{
     width: 1440px;
     height: 312px;
