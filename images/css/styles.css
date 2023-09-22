@@ -1,4 +1,9 @@
 :root {
+    --background-color: #FFF; /*top-line background color*/
+    --text-color: #2E2F42; /*top-line menu nav*/
+
+
+
     --section-header-title-color: #2E2F42;
     --section-title-color: #2E2F42;
     --section-feature-content-color: #434455;
@@ -8,6 +13,9 @@
 }
 
 
-.header > div > ul > li {
-    display: inline;
+.footer{
+    width: 1440px;
+    height: 312px;
+    flex-shrink: 0;
 }
+
